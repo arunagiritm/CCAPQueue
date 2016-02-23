@@ -1,0 +1,12 @@
+D:\Arun\Projects\Automation\CCAPQueue\Debug\sonar-project.properties
+D:\Arun\Projects\Automation\CCAPQueue\Debug\ccap.config
+D:\Arun\Projects\Automation\CCAPQueue\Debug\CCAPQConsole.exe.config
+D:\Arun\Projects\Automation\CCAPQueue\Debug\CCAPQConsole.exe
+D:\Arun\Projects\Automation\CCAPQueue\CCAPQConsole\CCAPQConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\Arun\Projects\Automation\CCAPQueue\CCAPQConsole\CCAPQConsole\obj\Debug\CCAPQConsole.CCAPQTray.resources
+D:\Arun\Projects\Automation\CCAPQueue\CCAPQConsole\CCAPQConsole\obj\Debug\CCAPQConsole.CCAPRun.resources
+D:\Arun\Projects\Automation\CCAPQueue\CCAPQConsole\CCAPQConsole\obj\Debug\CCAPQConsole.Properties.Resources.resources
+D:\Arun\Projects\Automation\CCAPQueue\CCAPQConsole\CCAPQConsole\obj\Debug\CCAPQConsole.csproj.GenerateResource.Cache
+D:\Arun\Projects\Automation\CCAPQueue\CCAPQConsole\CCAPQConsole\obj\Debug\CCAPQConsole.exe
+D:\Arun\Projects\Automation\CCAPQueue\CCAPQConsole\CCAPQConsole\obj\Debug\CCAPQConsole.pdb
+D:\Arun\Projects\Automation\CCAPQueue\Debug\CCAPQConsole.pdb
